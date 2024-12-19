@@ -39,4 +39,4 @@ made by individuals using point-of-sale (P.O.S) systems. These fraudulent activi
 of all transactions, making them particularly challenging to identify. The focus will be on creating a robust and
 accurate framework that can effectively handle the rarity of such events.
 
-https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
